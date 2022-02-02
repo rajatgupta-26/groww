@@ -1,0 +1,4 @@
+enum Operations {
+    ADD,
+    REMOVE;
+}
